@@ -3,7 +3,8 @@ import webbrowser
 import pyttsx4
 import musiclibrary
 from client import ask_gemini
-
+# this is main file
+# made by manav :)
 engine = pyttsx4.init()
 r = sr.Recognizer()
 def speak(text):
